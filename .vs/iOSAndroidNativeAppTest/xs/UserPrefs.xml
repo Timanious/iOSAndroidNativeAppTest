@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{074247C2-E275-4856-9526-94894FBC478E}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iOSAndroidNativeAppTest" expanded="True">
+            <Node name="iOSAndroidNativeAppTest" expanded="True">
+              <Node name="ViewModels" expanded="True">
+                <Node name="ItemsViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.iOSAndroidNativeAppTest.Droid AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="MasterDetailTheme" />
+  <MonoDevelop.Ide.ItemProperties.iOSAndroidNativeAppTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.8f3a0841af90e7fea37e8a7847cae60ada483a7e">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.iOSAndroidNativeAppTest.iOS>
+  <MonoDevelop.Ide.ItemProperties.iOSAndroidNativeAppTest FirstBuild="True" />
+</Properties>
