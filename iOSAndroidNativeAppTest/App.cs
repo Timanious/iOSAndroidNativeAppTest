@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace iOSAndroidNativeAppTest
 {
@@ -9,6 +10,7 @@ namespace iOSAndroidNativeAppTest
 
         public static void Initialize()
         {
+            Debug.WriteLine("Initialising app");
             if (UseMockDataStore)
                 ServiceLocator.Instance.Register<IDataStore<Item>, MockDataStore>();
             else
